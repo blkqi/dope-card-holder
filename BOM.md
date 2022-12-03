@@ -21,11 +21,11 @@
 
 |Qty|Description|Notes|
 |:----|:----|:----|
-|Hardware|2|M5 x 35 SHCS|socket head cap screw|
-|Hardware|1|M5 Hex Nut|ISO 4032|
+|2|M5 x 35 SHCS|socket head cap screw|
+|1|M5 Hex Nut|ISO 4032|
 
 ### M-Brace
 
 |Qty|Description|Notes|
 |:----|:----|:----|
-|Hardware|2|M5 x 16 FHCS|flat head cap screw, T25 Torx to match M-Brace|
+|2|M5 x 16 FHCS|flat head cap screw, T25 Torx to match M-Brace|
