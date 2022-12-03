@@ -9,6 +9,6 @@ Recommended printing settings:
 - initial layer height: 0.25mm
 - layer height: 0.2mm
 - bottom/top/perimeters: 4
-- infill: more than 40%
+- infill: 40%
 - infill type: cubic
 - thin walls: on
